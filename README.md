@@ -1,7 +1,8 @@
 I'm Arthur.
-🏫 Student (lycée eiffel) - 17 years old
-🎥 YouTube : ecologic informatic | Arthur (climbing) | 404A Studio
-🏆 Will probably try "les trophées de NSI"
+
+- 🏫 Student (lycée eiffel) - 17 years old
+- 🎥 YouTube : ecologic informatic | Arthur (climbing) | 404A Studio
+- 🏆 Will probably try "les trophées de NSI"
 
 - 👨🏼‍💻 I code in : Python, HTML, JavaScript (and nodeJS), CSS, Golang, Solidity
 - 🕰️ I have 2.5 years of experience into coding (for my personnal projects)
