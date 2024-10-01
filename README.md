@@ -4,7 +4,7 @@ I'm Arthur.
 🏆 Will probably try "les trophées de NSI"
 
 - 👨🏼‍💻 I code in : Python, HTML, JavaScript (and nodeJS), CSS, Golang, Solidity
-- 🕰️ I have 3 years of experience into coding (for my personnal projects)
+- 🕰️ I have 2.5 years of experience into coding (for my personnal projects)
 - 🔭 I’m currently working on a lot of projects (goFrontend, ...)
 - 🌱 I’m currently learning Object Oriented Programming
 - 👯 I’m looking for collaborators for my open-source projects
