@@ -1,6 +1,6 @@
 I'm Arthur.
 
-- 🏫 Student (lycée eiffel) - 17 years old
+- 🏫 Student (lycée Eiffel) - 17 years old
 - 🎥 YouTube : ecologic informatic | Arthur (climbing) | 404A Studio
 - 🏆 Will probably try "les trophées de NSI"
 
