@@ -4,7 +4,7 @@ I'm Arthur.
 - 🎥 YouTube : ecologic informatic | Arthur (climbing) | 404A Studio
 - 🏆 Will probably try "les trophées de NSI"
 
-- 👨🏼‍💻 I code in : Python, HTML, JavaScript (and nodeJS), CSS, Golang, Solidity
+- 👨🏼‍💻 I code in : Python, HTML, JavaScript (and nodeJS), CSS, Golang, Solidity and I plan to learn Rust
 - 🕰️ I have 2.5 years of experience into coding (for my personnal projects) + 1 year of experience with no-code tools (AppInventor)
 - 🕰️ I have 4.5 years of experience into hardware (fixing computers)
 - 🔭 I’m currently working on a lot of projects (goFrontend (V2), ...)
