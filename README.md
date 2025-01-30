@@ -1,9 +1,9 @@
-I'm Arthur.
+I am Arthur.
 
 - 🏫 Student (lycée Eiffel) - 17 years old
 - 🎥 YouTube : ecologic informatic | Arthur (climbing) | 404A Studio
 
-- 👨🏼‍💻 I code in : Python, HTML, JavaScript (and nodeJS), CSS, Golang, Solidity and I plan to learn Rust
+- 👨🏼‍💻 I code in : Python, HTML, JavaScript (and nodeJS), CSS, Golang, Solidity and I'm currently learning Rust.
 - 🕰️ I have 2.5 years of experience into coding (for my personnal projects) + 1 year of experience with no-code tools (AppInventor)
 - 🕰️ I have 4.5 years of experience into hardware (fixing computers)
 - 🔭 I’m currently working on a lot of projects (goFrontend, ...)
