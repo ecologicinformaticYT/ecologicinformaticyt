@@ -1,6 +1,6 @@
 I am Arthur.
 
-- 🏫 Student (soon : STAPS Dijon) - 18 years old
+- 🏫 Student (L1 STAPS - Dijon) - 18 years old
 - 🎥 YouTube : ecologic informatic | Arthur (climbing) | 404A Studio
 
 - 👨🏼‍💻 I code in : Python, HTML, JavaScript (and nodeJS), CSS, Golang, Solidity.
